@@ -1,0 +1,10 @@
+[
+  { "input": "Sr. SWE II", "expected_dept": "Engineering", "expected_seniority": "Senior" },
+  { "input": "jr web designer", "expected_dept": "Design", "expected_seniority": "Junior" },
+  { "input": "vp sales global", "expected_dept": "Sales", "expected_seniority": "Executive" },
+  { "input": "intern data scientist", "expected_dept": "Data", "expected_seniority": "Intern" },
+  { "input": "product mgr II", "expected_dept": "Product", "expected_seniority": "Mid" },
+  { "input": "growth marketer", "expected_dept": "Marketing", "expected_seniority": "Mid" },
+  { "input": "asdkjhu 123987", "expected_dept": "Other", "expected_seniority": "Unknown" },
+  { "input": "lead ops coordinator", "expected_dept": "Operations", "expected_seniority": "Lead" }
+]
